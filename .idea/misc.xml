@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/custom_check_icon.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/custom_input.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/custom_lock_icon.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/custom_person_icon.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/ic_baseline_check_24_focus.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/ic_baseline_lock_24_focus.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/drawable/ic_baseline_person_24_focus.xml" value="0.235" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/layout/activity_log_in.xml" value="0.33" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/nasru/Desktop/AndStudio/FireBaseBasics/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
